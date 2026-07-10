@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.env
+
+# AWS Credentials
+.aws/
+credentials
+config
+
+# VS Code
+.vscode/
+
+# OS Files
+Thumbs.db
+.DS_Store
