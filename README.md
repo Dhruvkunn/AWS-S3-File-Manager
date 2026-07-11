@@ -33,18 +33,31 @@ A modern desktop application built with **Python**, **Tkinter**, and **Amazon S3
 
 ## 📷 Screenshots
 
-### Main Interface
+#### Home Screen
 
-![Main UI](assets/main-ui.png)
-
-
-### Bucket Files
-
-![Bucket](assets/bucket-files.png)
+![Home](assets/01-home-screen.png)
 
 ---
 
-## 🚀 Installation
+### File Selected
+
+![Browse](assets/02-file-selected.png)
+
+---
+
+### Bucket Contents
+
+![Bucket](assets/03-bucket-contents.png)
+
+---
+
+### AWS S3 Console
+
+![AWS Console](assets/04-aws-s3-console.png)
+
+---
+
+## Installation
 
 Clone the repository
 
@@ -106,7 +119,7 @@ GitHub:
 https://github.com/Dhruvkunn
 
 LinkedIn:
-(Add your LinkedIn URL here)
+https://www.linkedin.com/in/dhruv-sharma-319370413/
 
 ---
 
